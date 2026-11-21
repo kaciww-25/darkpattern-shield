@@ -38,4 +38,5 @@ function scanForDarkPatterns() {
 
 scanForDarkPatterns();
 const observer = new MutationObserver(() => scanForDarkPatterns());
-observer.observe(document.body, { childlist: true, subtree: true });
+observer.observe(document.body, { childList: true, subtree: true });
+
