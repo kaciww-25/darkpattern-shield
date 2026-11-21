@@ -30,4 +30,4 @@ Banyak situs web dan layanan digital menggunakan trik antarmuka (*dark patterns*
 - [ ] Deteksi tombol pembatalan langganan (*unsubscribe*) yang disembunyikan dengan kontras warna rendah.
 
 ## Dukungan & Kontribusi
-Jika alat ini membantu melindungi transaksi harian Anda, silakan beri bintang (Star) pada repository ini atau dukung pengembangan fitur lanjutan melalui tautan donasi di profil GitHub ini.
+Jika alat ini membantu melindungi transaksi harian Anda, silakan beri bintang (Star) pada repository ini atau dukung pengembangan fitur lanjutan melalui tautan Saweria berikut: [Dukung via Saweria](https://saweria.co/naufalique07).
